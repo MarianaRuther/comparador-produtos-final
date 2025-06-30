@@ -1,0 +1,2142 @@
+[
+  {
+    "id": "bc8486eb-ace3-4e08-9d2a-bec34b1ce00d",
+    "name": "Motorola Edge 40 Pro - cor Prata",
+    "brand": "Motorola",
+    "category": "smartphones",
+    "price": {
+      "current": 3699.9,
+      "original": 3999.99,
+      "currency": "BRL",
+      "discount_percentage": 8
+    },
+    "images": [
+      "https://imgs.casasbahia.com.br/1566584537/1xg.jpg"
+    ],
+    "specifications": {
+      "display": "6.67'' pOLED 165Hz",
+      "storage": "256GB",
+      "camera": "50MP + 50MP + 12MP",
+      "battery": "4600 mAh",
+      "os": "Android 13",
+      "weight": "199g"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 623
+    },
+    "availability": {
+      "in_stock": true,
+      "quantity": 51,
+      "shipping": {
+        "free": false,
+        "estimated_days": 3
+      }
+    },
+    "features": [
+      "5G",
+      "IP68",
+      "TurboPower 125W"
+    ],
+    "created_at": "2025-06-29T22:39:35.369859",
+    "updated_at": "2025-06-29T22:39:35.369871"
+  },
+  {
+    "id": "4b2e1b6b-309b-4212-bbc7-0f1382644752",
+    "name": "Xiaomi 14 Pro 256GB - cor Azul",
+    "brand": "Xiaomi",
+    "category": "smartphones",
+    "price": {
+      "current": 4299.99,
+      "original": 4799.99,
+      "currency": "BRL",
+      "discount_percentage": 10
+    },
+    "images": [
+      "https://dcdn-us.mitiendanube.com/stores/003/772/365/products/d295f29262e6774bd99e66bcf018e2bc-a0a6aa1ecc4857647917116530904368-1024-1024-4b2834d8ac2bd1b21317501853262204-1024-1024.jpg"
+    ],
+    "specifications": {
+      "display": "6.73'' AMOLED",
+      "storage": "256GB",
+      "camera": "50MP + 50MP + 50MP",
+      "battery": "4880 mAh",
+      "os": "Android 14",
+      "weight": "223g"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 781
+    },
+    "availability": {
+      "in_stock": false,
+      "quantity": 55,
+      "shipping": {
+        "free": true,
+        "estimated_days": 2
+      }
+    },
+    "features": [
+      "5G",
+      "Fast Charging",
+      "Resistência IP68",
+      "Infravermelho"
+    ],
+    "created_at": "2025-06-29T22:39:35.370019",
+    "updated_at": "2025-06-29T22:39:35.370025"
+  },
+  {
+    "id": "f30024fa-56f3-4d97-86b4-9c8e98538d02",
+    "name": "Samsung Galaxy S24 Ultra 512GB - cor Azul",
+    "brand": "Samsung",
+    "category": "smartphones",
+    "price": {
+      "current": 7399.99,
+      "original": 8199.99,
+      "currency": "BRL",
+      "discount_percentage": 10
+    },
+    "images": [
+      "https://m.media-amazon.com/images/I/51rPU0jDc0L._UF1000,1000_QL80_.jpg"
+    ],
+    "specifications": {
+      "display": "6.8'' AMOLED 2X",
+      "storage": "512GB",
+      "camera": "200MP + 12MP + 10MP",
+      "battery": "5000 mAh",
+      "os": "Android 14",
+      "weight": "232g"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1002
+    },
+    "availability": {
+      "in_stock": false,
+      "quantity": 22,
+      "shipping": {
+        "free": true,
+        "estimated_days": 5
+      }
+    },
+    "features": [
+      "IP68",
+      "5G",
+      "S Pen",
+      "Carregamento rápido"
+    ],
+    "created_at": "2025-06-29T22:39:35.370078",
+    "updated_at": "2025-06-29T22:39:35.370081"
+  },
+  {
+    "id": "d7265035-c9e1-47ff-a868-1390797f51db",
+    "name": "iPhone 15 Pro Max 256GB - cor Verde",
+    "brand": "Apple",
+    "category": "smartphones",
+    "price": {
+      "current": 7999.99,
+      "original": 8999.99,
+      "currency": "BRL",
+      "discount_percentage": 11
+    },
+    "images": [
+      "https://dcdn-us.mitiendanube.com/stores/003/635/363/products/df9d8f3ffecc05250126ba2371d2af13-b1b2bc91a42787efc917083861835031-1024-1024.jpg"
+    ],
+    "specifications": {
+      "display": "6.7'' Super Retina XDR",
+      "storage": "256GB",
+      "camera": "48MP + 12MP + 12MP",
+      "battery": "4422 mAh",
+      "os": "iOS 17",
+      "weight": "221g"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 1247
+    },
+    "availability": {
+      "in_stock": true,
+      "quantity": 9,
+      "shipping": {
+        "free": false,
+        "estimated_days": 3
+      }
+    },
+    "features": [
+      "IP68",
+      "5G",
+      "Face ID",
+      "Carregamento sem fio"
+    ],
+    "created_at": "2025-06-29T22:39:35.370110",
+    "updated_at": "2025-06-29T22:39:35.370113"
+  },
+  {
+    "id": "c5a13b0b-af0e-4489-a90c-d1de87399937",
+    "name": "Xiaomi 14 Pro 256GB - cor Prata",
+    "brand": "Xiaomi",
+    "category": "smartphones",
+    "price": {
+      "current": 4299.99,
+      "original": 4799.99,
+      "currency": "BRL",
+      "discount_percentage": 10
+    },
+    "images": [
+      "https://dcdn-us.mitiendanube.com/stores/003/772/365/products/d295f29262e6774bd99e66bcf018e2bc-a0a6aa1ecc4857647917116530904368-1024-1024-4b2834d8ac2bd1b21317501853262204-1024-1024.jpg"
+    ],
+    "specifications": {
+      "display": "6.73'' AMOLED",
+      "storage": "256GB",
+      "camera": "50MP + 50MP + 50MP",
+      "battery": "4880 mAh",
+      "os": "Android 14",
+      "weight": "223g"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 781
+    },
+    "availability": {
+      "in_stock": true,
+      "quantity": 55,
+      "shipping": {
+        "free": true,
+        "estimated_days": 2
+      }
+    },
+    "features": [
+      "5G",
+      "Fast Charging",
+      "Resistência IP68",
+      "Infravermelho"
+    ],
+    "created_at": "2025-06-29T22:39:35.370138",
+    "updated_at": "2025-06-29T22:39:35.370141"
+  },
+  {
+    "id": "31083fe8-48e4-4b1d-84e1-b0c2c667e6c3",
+    "name": "Xiaomi 14 Pro 256GB - cor Dourado",
+    "brand": "Xiaomi",
+    "category": "smartphones",
+    "price": {
+      "current": 4299.99,
+      "original": 4799.99,
+      "currency": "BRL",
+      "discount_percentage": 10
+    },
+    "images": [
+      "https://dcdn-us.mitiendanube.com/stores/003/772/365/products/d295f29262e6774bd99e66bcf018e2bc-a0a6aa1ecc4857647917116530904368-1024-1024-4b2834d8ac2bd1b21317501853262204-1024-1024.jpg"
+    ],
+    "specifications": {
+      "display": "6.73'' AMOLED",
+      "storage": "256GB",
+      "camera": "50MP + 50MP + 50MP",
+      "battery": "4880 mAh",
+      "os": "Android 14",
+      "weight": "223g"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 781
+    },
+    "availability": {
+      "in_stock": false,
+      "quantity": 22,
+      "shipping": {
+        "free": true,
+        "estimated_days": 1
+      }
+    },
+    "features": [
+      "5G",
+      "Fast Charging",
+      "Resistência IP68",
+      "Infravermelho"
+    ],
+    "created_at": "2025-06-29T22:39:35.370197",
+    "updated_at": "2025-06-29T22:39:35.370201"
+  },
+  {
+    "id": "d0a25647-cc1a-4f88-9d93-f2d9b35051bd",
+    "name": "Samsung Galaxy S24 Ultra 512GB - cor Azul",
+    "brand": "Samsung",
+    "category": "smartphones",
+    "price": {
+      "current": 7399.99,
+      "original": 8199.99,
+      "currency": "BRL",
+      "discount_percentage": 10
+    },
+    "images": [
+      "https://m.media-amazon.com/images/I/51rPU0jDc0L._UF1000,1000_QL80_.jpg"
+    ],
+    "specifications": {
+      "display": "6.8'' AMOLED 2X",
+      "storage": "512GB",
+      "camera": "200MP + 12MP + 10MP",
+      "battery": "5000 mAh",
+      "os": "Android 14",
+      "weight": "232g"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1002
+    },
+    "availability": {
+      "in_stock": false,
+      "quantity": 27,
+      "shipping": {
+        "free": true,
+        "estimated_days": 5
+      }
+    },
+    "features": [
+      "IP68",
+      "5G",
+      "S Pen",
+      "Carregamento rápido"
+    ],
+    "created_at": "2025-06-29T22:39:35.370254",
+    "updated_at": "2025-06-29T22:39:35.370258"
+  },
+  {
+    "id": "882408f5-9b18-4b8f-b2e6-ab5896c58288",
+    "name": "Motorola Edge 40 Pro - cor Preto",
+    "brand": "Motorola",
+    "category": "smartphones",
+    "price": {
+      "current": 3699.9,
+      "original": 3999.99,
+      "currency": "BRL",
+      "discount_percentage": 8
+    },
+    "images": [
+      "https://imgs.casasbahia.com.br/1566584537/1xg.jpg"
+    ],
+    "specifications": {
+      "display": "6.67'' pOLED 165Hz",
+      "storage": "256GB",
+      "camera": "50MP + 50MP + 12MP",
+      "battery": "4600 mAh",
+      "os": "Android 13",
+      "weight": "199g"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 623
+    },
+    "availability": {
+      "in_stock": false,
+      "quantity": 50,
+      "shipping": {
+        "free": false,
+        "estimated_days": 3
+      }
+    },
+    "features": [
+      "5G",
+      "IP68",
+      "TurboPower 125W"
+    ],
+    "created_at": "2025-06-29T22:39:35.370421",
+    "updated_at": "2025-06-29T22:39:35.370432"
+  },
+  {
+    "id": "754f9ac7-fb46-462b-80e4-beebb845563d",
+    "name": "Google Pixel 8 Pro - cor Dourado",
+    "brand": "Google",
+    "category": "smartphones",
+    "price": {
+      "current": 6899.0,
+      "original": 7399.99,
+      "currency": "BRL",
+      "discount_percentage": 7
+    },
+    "images": [
+      "https://files.tecnoblog.net/wp-content/uploads/2025/05/Google-Pixel-8-Pro-Mint-verde.png"
+    ],
+    "specifications": {
+      "display": "6.7'' LTPO OLED",
+      "storage": "128GB",
+      "camera": "50MP + 48MP + 48MP",
+      "battery": "5050 mAh",
+      "os": "Android 14",
+      "weight": "213g"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 852
+    },
+    "availability": {
+      "in_stock": true,
+      "quantity": 64,
+      "shipping": {
+        "free": false,
+        "estimated_days": 5
+      }
+    },
+    "features": [
+      "5G",
+      "AI de Fotos",
+      "IP68",
+      "Atualizações por 7 anos"
+    ],
+    "created_at": "2025-06-29T22:39:35.370680",
+    "updated_at": "2025-06-29T22:39:35.370685"
+  },
+  {
+    "id": "38fb0f76-19ed-4719-9fae-836fb20b78c4",
+    "name": "Samsung Galaxy S24 Ultra 512GB - cor Azul",
+    "brand": "Samsung",
+    "category": "smartphones",
+    "price": {
+      "current": 7399.99,
+      "original": 8199.99,
+      "currency": "BRL",
+      "discount_percentage": 10
+    },
+    "images": [
+      "https://m.media-amazon.com/images/I/51rPU0jDc0L._UF1000,1000_QL80_.jpg"
+    ],
+    "specifications": {
+      "display": "6.8'' AMOLED 2X",
+      "storage": "512GB",
+      "camera": "200MP + 12MP + 10MP",
+      "battery": "5000 mAh",
+      "os": "Android 14",
+      "weight": "232g"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1002
+    },
+    "availability": {
+      "in_stock": true,
+      "quantity": 7,
+      "shipping": {
+        "free": true,
+        "estimated_days": 1
+      }
+    },
+    "features": [
+      "IP68",
+      "5G",
+      "S Pen",
+      "Carregamento rápido"
+    ],
+    "created_at": "2025-06-29T22:39:35.370735",
+    "updated_at": "2025-06-29T22:39:35.370737"
+  },
+  {
+    "id": "c6ed6e71-4df6-4ca6-a12d-9f0dd7d61245",
+    "name": "iPhone 15 Pro Max 256GB - cor Verde",
+    "brand": "Apple",
+    "category": "smartphones",
+    "price": {
+      "current": 7999.99,
+      "original": 8999.99,
+      "currency": "BRL",
+      "discount_percentage": 11
+    },
+    "images": [
+      "https://dcdn-us.mitiendanube.com/stores/003/635/363/products/df9d8f3ffecc05250126ba2371d2af13-b1b2bc91a42787efc917083861835031-1024-1024.jpg"
+    ],
+    "specifications": {
+      "display": "6.7'' Super Retina XDR",
+      "storage": "256GB",
+      "camera": "48MP + 12MP + 12MP",
+      "battery": "4422 mAh",
+      "os": "iOS 17",
+      "weight": "221g"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 1247
+    },
+    "availability": {
+      "in_stock": true,
+      "quantity": 3,
+      "shipping": {
+        "free": false,
+        "estimated_days": 5
+      }
+    },
+    "features": [
+      "IP68",
+      "5G",
+      "Face ID",
+      "Carregamento sem fio"
+    ],
+    "created_at": "2025-06-29T22:39:35.370785",
+    "updated_at": "2025-06-29T22:39:35.370788"
+  },
+  {
+    "id": "c401bfe8-8f63-44a6-b6d6-80b5ae7d8afc",
+    "name": "iPhone 15 Pro Max 256GB - cor Verde",
+    "brand": "Apple",
+    "category": "smartphones",
+    "price": {
+      "current": 7999.99,
+      "original": 8999.99,
+      "currency": "BRL",
+      "discount_percentage": 11
+    },
+    "images": [
+      "https://dcdn-us.mitiendanube.com/stores/003/635/363/products/df9d8f3ffecc05250126ba2371d2af13-b1b2bc91a42787efc917083861835031-1024-1024.jpg"
+    ],
+    "specifications": {
+      "display": "6.7'' Super Retina XDR",
+      "storage": "256GB",
+      "camera": "48MP + 12MP + 12MP",
+      "battery": "4422 mAh",
+      "os": "iOS 17",
+      "weight": "221g"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 1247
+    },
+    "availability": {
+      "in_stock": false,
+      "quantity": 98,
+      "shipping": {
+        "free": false,
+        "estimated_days": 1
+      }
+    },
+    "features": [
+      "IP68",
+      "5G",
+      "Face ID",
+      "Carregamento sem fio"
+    ],
+    "created_at": "2025-06-29T22:39:35.370825",
+    "updated_at": "2025-06-29T22:39:35.370828"
+  },
+  {
+    "id": "ee6b3d05-2a62-4dc7-9b5c-887245047a7d",
+    "name": "Xiaomi 14 Pro 256GB - cor Azul",
+    "brand": "Xiaomi",
+    "category": "smartphones",
+    "price": {
+      "current": 4299.99,
+      "original": 4799.99,
+      "currency": "BRL",
+      "discount_percentage": 10
+    },
+    "images": [
+      "https://dcdn-us.mitiendanube.com/stores/003/772/365/products/d295f29262e6774bd99e66bcf018e2bc-a0a6aa1ecc4857647917116530904368-1024-1024-4b2834d8ac2bd1b21317501853262204-1024-1024.jpg"
+    ],
+    "specifications": {
+      "display": "6.73'' AMOLED",
+      "storage": "256GB",
+      "camera": "50MP + 50MP + 50MP",
+      "battery": "4880 mAh",
+      "os": "Android 14",
+      "weight": "223g"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 781
+    },
+    "availability": {
+      "in_stock": true,
+      "quantity": 48,
+      "shipping": {
+        "free": false,
+        "estimated_days": 1
+      }
+    },
+    "features": [
+      "5G",
+      "Fast Charging",
+      "Resistência IP68",
+      "Infravermelho"
+    ],
+    "created_at": "2025-06-29T22:39:35.370857",
+    "updated_at": "2025-06-29T22:39:35.370860"
+  },
+  {
+    "id": "15a8873a-c5c1-4698-8479-c57c24b93c84",
+    "name": "Samsung Galaxy S24 Ultra 512GB - cor Preto",
+    "brand": "Samsung",
+    "category": "smartphones",
+    "price": {
+      "current": 7399.99,
+      "original": 8199.99,
+      "currency": "BRL",
+      "discount_percentage": 10
+    },
+    "images": [
+      "https://m.media-amazon.com/images/I/51rPU0jDc0L._UF1000,1000_QL80_.jpg"
+    ],
+    "specifications": {
+      "display": "6.8'' AMOLED 2X",
+      "storage": "512GB",
+      "camera": "200MP + 12MP + 10MP",
+      "battery": "5000 mAh",
+      "os": "Android 14",
+      "weight": "232g"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1002
+    },
+    "availability": {
+      "in_stock": true,
+      "quantity": 97,
+      "shipping": {
+        "free": true,
+        "estimated_days": 2
+      }
+    },
+    "features": [
+      "IP68",
+      "5G",
+      "S Pen",
+      "Carregamento rápido"
+    ],
+    "created_at": "2025-06-29T22:39:35.370890",
+    "updated_at": "2025-06-29T22:39:35.370893"
+  },
+  {
+    "id": "a41db511-307f-403a-93a6-d2bd8457fa65",
+    "name": "Google Pixel 8 Pro - cor Preto",
+    "brand": "Google",
+    "category": "smartphones",
+    "price": {
+      "current": 6899.0,
+      "original": 7399.99,
+      "currency": "BRL",
+      "discount_percentage": 7
+    },
+    "images": [
+      "https://files.tecnoblog.net/wp-content/uploads/2025/05/Google-Pixel-8-Pro-Mint-verde.png"
+    ],
+    "specifications": {
+      "display": "6.7'' LTPO OLED",
+      "storage": "128GB",
+      "camera": "50MP + 48MP + 48MP",
+      "battery": "5050 mAh",
+      "os": "Android 14",
+      "weight": "213g"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 852
+    },
+    "availability": {
+      "in_stock": false,
+      "quantity": 19,
+      "shipping": {
+        "free": true,
+        "estimated_days": 1
+      }
+    },
+    "features": [
+      "5G",
+      "AI de Fotos",
+      "IP68",
+      "Atualizações por 7 anos"
+    ],
+    "created_at": "2025-06-29T22:39:35.370930",
+    "updated_at": "2025-06-29T22:39:35.370934"
+  },
+  {
+    "id": "230e3a9e-7e72-46b5-9b82-698ad9eade2e",
+    "name": "Google Pixel 8 Pro - cor Dourado",
+    "brand": "Google",
+    "category": "smartphones",
+    "price": {
+      "current": 6899.0,
+      "original": 7399.99,
+      "currency": "BRL",
+      "discount_percentage": 7
+    },
+    "images": [
+      "https://files.tecnoblog.net/wp-content/uploads/2025/05/Google-Pixel-8-Pro-Mint-verde.png"
+    ],
+    "specifications": {
+      "display": "6.7'' LTPO OLED",
+      "storage": "128GB",
+      "camera": "50MP + 48MP + 48MP",
+      "battery": "5050 mAh",
+      "os": "Android 14",
+      "weight": "213g"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 852
+    },
+    "availability": {
+      "in_stock": false,
+      "quantity": 97,
+      "shipping": {
+        "free": false,
+        "estimated_days": 2
+      }
+    },
+    "features": [
+      "5G",
+      "AI de Fotos",
+      "IP68",
+      "Atualizações por 7 anos"
+    ],
+    "created_at": "2025-06-29T22:39:35.370965",
+    "updated_at": "2025-06-29T22:39:35.370969"
+  },
+  {
+    "id": "417822a1-da5f-4e00-99ae-dfced37b57f0",
+    "name": "iPhone 15 Pro Max 256GB - cor Prata",
+    "brand": "Apple",
+    "category": "smartphones",
+    "price": {
+      "current": 7999.99,
+      "original": 8999.99,
+      "currency": "BRL",
+      "discount_percentage": 11
+    },
+    "images": [
+      "https://dcdn-us.mitiendanube.com/stores/003/635/363/products/df9d8f3ffecc05250126ba2371d2af13-b1b2bc91a42787efc917083861835031-1024-1024.jpg"
+    ],
+    "specifications": {
+      "display": "6.7'' Super Retina XDR",
+      "storage": "256GB",
+      "camera": "48MP + 12MP + 12MP",
+      "battery": "4422 mAh",
+      "os": "iOS 17",
+      "weight": "221g"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 1247
+    },
+    "availability": {
+      "in_stock": true,
+      "quantity": 92,
+      "shipping": {
+        "free": true,
+        "estimated_days": 2
+      }
+    },
+    "features": [
+      "IP68",
+      "5G",
+      "Face ID",
+      "Carregamento sem fio"
+    ],
+    "created_at": "2025-06-29T22:39:35.371024",
+    "updated_at": "2025-06-29T22:39:35.371027"
+  },
+  {
+    "id": "6884d50e-b83f-4652-add0-cab07ccf74d5",
+    "name": "Motorola Edge 40 Pro - cor Prata",
+    "brand": "Motorola",
+    "category": "smartphones",
+    "price": {
+      "current": 3699.9,
+      "original": 3999.99,
+      "currency": "BRL",
+      "discount_percentage": 8
+    },
+    "images": [
+      "https://imgs.casasbahia.com.br/1566584537/1xg.jpg"
+    ],
+    "specifications": {
+      "display": "6.67'' pOLED 165Hz",
+      "storage": "256GB",
+      "camera": "50MP + 50MP + 12MP",
+      "battery": "4600 mAh",
+      "os": "Android 13",
+      "weight": "199g"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 623
+    },
+    "availability": {
+      "in_stock": true,
+      "quantity": 36,
+      "shipping": {
+        "free": true,
+        "estimated_days": 2
+      }
+    },
+    "features": [
+      "5G",
+      "IP68",
+      "TurboPower 125W"
+    ],
+    "created_at": "2025-06-29T22:39:35.371092",
+    "updated_at": "2025-06-29T22:39:35.371094"
+  },
+  {
+    "id": "fcd95e3d-8a3e-4cc5-a39b-36390f071861",
+    "name": "iPhone 15 Pro Max 256GB - cor Verde",
+    "brand": "Apple",
+    "category": "smartphones",
+    "price": {
+      "current": 7999.99,
+      "original": 8999.99,
+      "currency": "BRL",
+      "discount_percentage": 11
+    },
+    "images": [
+      "https://dcdn-us.mitiendanube.com/stores/003/635/363/products/df9d8f3ffecc05250126ba2371d2af13-b1b2bc91a42787efc917083861835031-1024-1024.jpg"
+    ],
+    "specifications": {
+      "display": "6.7'' Super Retina XDR",
+      "storage": "256GB",
+      "camera": "48MP + 12MP + 12MP",
+      "battery": "4422 mAh",
+      "os": "iOS 17",
+      "weight": "221g"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 1247
+    },
+    "availability": {
+      "in_stock": false,
+      "quantity": 67,
+      "shipping": {
+        "free": false,
+        "estimated_days": 2
+      }
+    },
+    "features": [
+      "IP68",
+      "5G",
+      "Face ID",
+      "Carregamento sem fio"
+    ],
+    "created_at": "2025-06-29T22:39:35.371135",
+    "updated_at": "2025-06-29T22:39:35.371137"
+  },
+  {
+    "id": "8368fb73-cc37-43e2-90ff-0ea8c0c7185f",
+    "name": "Google Pixel 8 Pro - cor Verde",
+    "brand": "Google",
+    "category": "smartphones",
+    "price": {
+      "current": 6899.0,
+      "original": 7399.99,
+      "currency": "BRL",
+      "discount_percentage": 7
+    },
+    "images": [
+      "https://files.tecnoblog.net/wp-content/uploads/2025/05/Google-Pixel-8-Pro-Mint-verde.png"
+    ],
+    "specifications": {
+      "display": "6.7'' LTPO OLED",
+      "storage": "128GB",
+      "camera": "50MP + 48MP + 48MP",
+      "battery": "5050 mAh",
+      "os": "Android 14",
+      "weight": "213g"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 852
+    },
+    "availability": {
+      "in_stock": true,
+      "quantity": 33,
+      "shipping": {
+        "free": false,
+        "estimated_days": 5
+      }
+    },
+    "features": [
+      "5G",
+      "AI de Fotos",
+      "IP68",
+      "Atualizações por 7 anos"
+    ],
+    "created_at": "2025-06-29T22:39:35.371177",
+    "updated_at": "2025-06-29T22:39:35.371179"
+  },
+  {
+    "id": "7749e76b-7dba-46ad-85d4-73344a7800a9",
+    "name": "Motorola Edge 40 Pro - cor Dourado",
+    "brand": "Motorola",
+    "category": "smartphones",
+    "price": {
+      "current": 3699.9,
+      "original": 3999.99,
+      "currency": "BRL",
+      "discount_percentage": 8
+    },
+    "images": [
+      "https://imgs.casasbahia.com.br/1566584537/1xg.jpg"
+    ],
+    "specifications": {
+      "display": "6.67'' pOLED 165Hz",
+      "storage": "256GB",
+      "camera": "50MP + 50MP + 12MP",
+      "battery": "4600 mAh",
+      "os": "Android 13",
+      "weight": "199g"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 623
+    },
+    "availability": {
+      "in_stock": true,
+      "quantity": 33,
+      "shipping": {
+        "free": true,
+        "estimated_days": 3
+      }
+    },
+    "features": [
+      "5G",
+      "IP68",
+      "TurboPower 125W"
+    ],
+    "created_at": "2025-06-29T22:39:35.371228",
+    "updated_at": "2025-06-29T22:39:35.371230"
+  },
+  {
+    "id": "12c0c0bd-5d6f-4b25-b24a-b0bbe31a1169",
+    "name": "iPhone 15 Pro Max 256GB - cor Preto",
+    "brand": "Apple",
+    "category": "smartphones",
+    "price": {
+      "current": 7999.99,
+      "original": 8999.99,
+      "currency": "BRL",
+      "discount_percentage": 11
+    },
+    "images": [
+      "https://dcdn-us.mitiendanube.com/stores/003/635/363/products/df9d8f3ffecc05250126ba2371d2af13-b1b2bc91a42787efc917083861835031-1024-1024.jpg"
+    ],
+    "specifications": {
+      "display": "6.7'' Super Retina XDR",
+      "storage": "256GB",
+      "camera": "48MP + 12MP + 12MP",
+      "battery": "4422 mAh",
+      "os": "iOS 17",
+      "weight": "221g"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 1247
+    },
+    "availability": {
+      "in_stock": true,
+      "quantity": 94,
+      "shipping": {
+        "free": true,
+        "estimated_days": 5
+      }
+    },
+    "features": [
+      "IP68",
+      "5G",
+      "Face ID",
+      "Carregamento sem fio"
+    ],
+    "created_at": "2025-06-29T22:39:35.371260",
+    "updated_at": "2025-06-29T22:39:35.371263"
+  },
+  {
+    "id": "394e9962-0cff-435c-a7d9-e8b65d60c708",
+    "name": "iPhone 15 Pro Max 256GB - cor Verde",
+    "brand": "Apple",
+    "category": "smartphones",
+    "price": {
+      "current": 7999.99,
+      "original": 8999.99,
+      "currency": "BRL",
+      "discount_percentage": 11
+    },
+    "images": [
+      "https://dcdn-us.mitiendanube.com/stores/003/635/363/products/df9d8f3ffecc05250126ba2371d2af13-b1b2bc91a42787efc917083861835031-1024-1024.jpg"
+    ],
+    "specifications": {
+      "display": "6.7'' Super Retina XDR",
+      "storage": "256GB",
+      "camera": "48MP + 12MP + 12MP",
+      "battery": "4422 mAh",
+      "os": "iOS 17",
+      "weight": "221g"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 1247
+    },
+    "availability": {
+      "in_stock": false,
+      "quantity": 0,
+      "shipping": {
+        "free": false,
+        "estimated_days": 3
+      }
+    },
+    "features": [
+      "IP68",
+      "5G",
+      "Face ID",
+      "Carregamento sem fio"
+    ],
+    "created_at": "2025-06-29T22:39:35.371288",
+    "updated_at": "2025-06-29T22:39:35.371290"
+  },
+  {
+    "id": "a90ad570-66e9-4ffa-bc49-91cc44c39cca",
+    "name": "Samsung Galaxy S24 Ultra 512GB - cor Preto",
+    "brand": "Samsung",
+    "category": "smartphones",
+    "price": {
+      "current": 7399.99,
+      "original": 8199.99,
+      "currency": "BRL",
+      "discount_percentage": 10
+    },
+    "images": [
+      "https://m.media-amazon.com/images/I/51rPU0jDc0L._UF1000,1000_QL80_.jpg"
+    ],
+    "specifications": {
+      "display": "6.8'' AMOLED 2X",
+      "storage": "512GB",
+      "camera": "200MP + 12MP + 10MP",
+      "battery": "5000 mAh",
+      "os": "Android 14",
+      "weight": "232g"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1002
+    },
+    "availability": {
+      "in_stock": false,
+      "quantity": 75,
+      "shipping": {
+        "free": true,
+        "estimated_days": 3
+      }
+    },
+    "features": [
+      "IP68",
+      "5G",
+      "S Pen",
+      "Carregamento rápido"
+    ],
+    "created_at": "2025-06-29T22:39:35.371308",
+    "updated_at": "2025-06-29T22:39:35.371311"
+  },
+  {
+    "id": "620859b8-f8f6-4973-9bb5-afa9d0baeba8",
+    "name": "Google Pixel 8 Pro - cor Preto",
+    "brand": "Google",
+    "category": "smartphones",
+    "price": {
+      "current": 6899.0,
+      "original": 7399.99,
+      "currency": "BRL",
+      "discount_percentage": 7
+    },
+    "images": [
+      "https://files.tecnoblog.net/wp-content/uploads/2025/05/Google-Pixel-8-Pro-Mint-verde.png"
+    ],
+    "specifications": {
+      "display": "6.7'' LTPO OLED",
+      "storage": "128GB",
+      "camera": "50MP + 48MP + 48MP",
+      "battery": "5050 mAh",
+      "os": "Android 14",
+      "weight": "213g"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 852
+    },
+    "availability": {
+      "in_stock": true,
+      "quantity": 7,
+      "shipping": {
+        "free": true,
+        "estimated_days": 1
+      }
+    },
+    "features": [
+      "5G",
+      "AI de Fotos",
+      "IP68",
+      "Atualizações por 7 anos"
+    ],
+    "created_at": "2025-06-29T22:39:35.371346",
+    "updated_at": "2025-06-29T22:39:35.371349"
+  },
+  {
+    "id": "45845232-5d03-40e7-b102-02cf1ada21a1",
+    "name": "Xiaomi 14 Pro 256GB - cor Prata",
+    "brand": "Xiaomi",
+    "category": "smartphones",
+    "price": {
+      "current": 4299.99,
+      "original": 4799.99,
+      "currency": "BRL",
+      "discount_percentage": 10
+    },
+    "images": [
+      "https://dcdn-us.mitiendanube.com/stores/003/772/365/products/d295f29262e6774bd99e66bcf018e2bc-a0a6aa1ecc4857647917116530904368-1024-1024-4b2834d8ac2bd1b21317501853262204-1024-1024.jpg"
+    ],
+    "specifications": {
+      "display": "6.73'' AMOLED",
+      "storage": "256GB",
+      "camera": "50MP + 50MP + 50MP",
+      "battery": "4880 mAh",
+      "os": "Android 14",
+      "weight": "223g"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 781
+    },
+    "availability": {
+      "in_stock": false,
+      "quantity": 61,
+      "shipping": {
+        "free": true,
+        "estimated_days": 3
+      }
+    },
+    "features": [
+      "5G",
+      "Fast Charging",
+      "Resistência IP68",
+      "Infravermelho"
+    ],
+    "created_at": "2025-06-29T22:39:35.371374",
+    "updated_at": "2025-06-29T22:39:35.371377"
+  },
+  {
+    "id": "9b3351fd-5761-4191-8c0f-839825f56949",
+    "name": "Motorola Edge 40 Pro - cor Verde",
+    "brand": "Motorola",
+    "category": "smartphones",
+    "price": {
+      "current": 3699.9,
+      "original": 3999.99,
+      "currency": "BRL",
+      "discount_percentage": 8
+    },
+    "images": [
+      "https://imgs.casasbahia.com.br/1566584537/1xg.jpg"
+    ],
+    "specifications": {
+      "display": "6.67'' pOLED 165Hz",
+      "storage": "256GB",
+      "camera": "50MP + 50MP + 12MP",
+      "battery": "4600 mAh",
+      "os": "Android 13",
+      "weight": "199g"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 623
+    },
+    "availability": {
+      "in_stock": true,
+      "quantity": 52,
+      "shipping": {
+        "free": false,
+        "estimated_days": 2
+      }
+    },
+    "features": [
+      "5G",
+      "IP68",
+      "TurboPower 125W"
+    ],
+    "created_at": "2025-06-29T22:39:35.371420",
+    "updated_at": "2025-06-29T22:39:35.371423"
+  },
+  {
+    "id": "ce8a0a22-83e0-4535-99d3-cb32217dd711",
+    "name": "Xiaomi 14 Pro 256GB - cor Preto",
+    "brand": "Xiaomi",
+    "category": "smartphones",
+    "price": {
+      "current": 4299.99,
+      "original": 4799.99,
+      "currency": "BRL",
+      "discount_percentage": 10
+    },
+    "images": [
+      "https://dcdn-us.mitiendanube.com/stores/003/772/365/products/d295f29262e6774bd99e66bcf018e2bc-a0a6aa1ecc4857647917116530904368-1024-1024-4b2834d8ac2bd1b21317501853262204-1024-1024.jpg"
+    ],
+    "specifications": {
+      "display": "6.73'' AMOLED",
+      "storage": "256GB",
+      "camera": "50MP + 50MP + 50MP",
+      "battery": "4880 mAh",
+      "os": "Android 14",
+      "weight": "223g"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 781
+    },
+    "availability": {
+      "in_stock": false,
+      "quantity": 60,
+      "shipping": {
+        "free": false,
+        "estimated_days": 1
+      }
+    },
+    "features": [
+      "5G",
+      "Fast Charging",
+      "Resistência IP68",
+      "Infravermelho"
+    ],
+    "created_at": "2025-06-29T22:39:35.371449",
+    "updated_at": "2025-06-29T22:39:35.371452"
+  },
+  {
+    "id": "a0442a40-f785-48e9-b178-4a36ca9346b6",
+    "name": "Motorola Edge 40 Pro - cor Prata",
+    "brand": "Motorola",
+    "category": "smartphones",
+    "price": {
+      "current": 3699.9,
+      "original": 3999.99,
+      "currency": "BRL",
+      "discount_percentage": 8
+    },
+    "images": [
+      "https://imgs.casasbahia.com.br/1566584537/1xg.jpg"
+    ],
+    "specifications": {
+      "display": "6.67'' pOLED 165Hz",
+      "storage": "256GB",
+      "camera": "50MP + 50MP + 12MP",
+      "battery": "4600 mAh",
+      "os": "Android 13",
+      "weight": "199g"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 623
+    },
+    "availability": {
+      "in_stock": true,
+      "quantity": 91,
+      "shipping": {
+        "free": true,
+        "estimated_days": 3
+      }
+    },
+    "features": [
+      "5G",
+      "IP68",
+      "TurboPower 125W"
+    ],
+    "created_at": "2025-06-29T22:39:35.371489",
+    "updated_at": "2025-06-29T22:39:35.371492"
+  },
+  {
+    "id": "29aa23f8-4031-451e-aa39-d77fe4c2cd2a",
+    "name": "Motorola Edge 40 Pro - cor Prata",
+    "brand": "Motorola",
+    "category": "smartphones",
+    "price": {
+      "current": 3699.9,
+      "original": 3999.99,
+      "currency": "BRL",
+      "discount_percentage": 8
+    },
+    "images": [
+      "https://imgs.casasbahia.com.br/1566584537/1xg.jpg"
+    ],
+    "specifications": {
+      "display": "6.67'' pOLED 165Hz",
+      "storage": "256GB",
+      "camera": "50MP + 50MP + 12MP",
+      "battery": "4600 mAh",
+      "os": "Android 13",
+      "weight": "199g"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 623
+    },
+    "availability": {
+      "in_stock": false,
+      "quantity": 18,
+      "shipping": {
+        "free": true,
+        "estimated_days": 2
+      }
+    },
+    "features": [
+      "5G",
+      "IP68",
+      "TurboPower 125W"
+    ],
+    "created_at": "2025-06-29T22:39:35.371523",
+    "updated_at": "2025-06-29T22:39:35.371525"
+  },
+  {
+    "id": "6d985610-f015-47a7-950e-79b41f32f15d",
+    "name": "Xiaomi 14 Pro 256GB - cor Verde",
+    "brand": "Xiaomi",
+    "category": "smartphones",
+    "price": {
+      "current": 4299.99,
+      "original": 4799.99,
+      "currency": "BRL",
+      "discount_percentage": 10
+    },
+    "images": [
+      "https://dcdn-us.mitiendanube.com/stores/003/772/365/products/d295f29262e6774bd99e66bcf018e2bc-a0a6aa1ecc4857647917116530904368-1024-1024-4b2834d8ac2bd1b21317501853262204-1024-1024.jpg"
+    ],
+    "specifications": {
+      "display": "6.73'' AMOLED",
+      "storage": "256GB",
+      "camera": "50MP + 50MP + 50MP",
+      "battery": "4880 mAh",
+      "os": "Android 14",
+      "weight": "223g"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 781
+    },
+    "availability": {
+      "in_stock": true,
+      "quantity": 50,
+      "shipping": {
+        "free": false,
+        "estimated_days": 5
+      }
+    },
+    "features": [
+      "5G",
+      "Fast Charging",
+      "Resistência IP68",
+      "Infravermelho"
+    ],
+    "created_at": "2025-06-29T22:39:35.371553",
+    "updated_at": "2025-06-29T22:39:35.371555"
+  },
+  {
+    "id": "4f4f5784-8b5e-43fe-9f23-ccc30afb19c3",
+    "name": "Google Pixel 8 Pro - cor Prata",
+    "brand": "Google",
+    "category": "smartphones",
+    "price": {
+      "current": 6899.0,
+      "original": 7399.99,
+      "currency": "BRL",
+      "discount_percentage": 7
+    },
+    "images": [
+      "https://files.tecnoblog.net/wp-content/uploads/2025/05/Google-Pixel-8-Pro-Mint-verde.png"
+    ],
+    "specifications": {
+      "display": "6.7'' LTPO OLED",
+      "storage": "128GB",
+      "camera": "50MP + 48MP + 48MP",
+      "battery": "5050 mAh",
+      "os": "Android 14",
+      "weight": "213g"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 852
+    },
+    "availability": {
+      "in_stock": true,
+      "quantity": 21,
+      "shipping": {
+        "free": true,
+        "estimated_days": 2
+      }
+    },
+    "features": [
+      "5G",
+      "AI de Fotos",
+      "IP68",
+      "Atualizações por 7 anos"
+    ],
+    "created_at": "2025-06-29T22:39:35.371584",
+    "updated_at": "2025-06-29T22:39:35.371586"
+  },
+  {
+    "id": "d65c9e70-300c-4645-b46c-6d426a2ebe26",
+    "name": "Motorola Edge 40 Pro - cor Verde",
+    "brand": "Motorola",
+    "category": "smartphones",
+    "price": {
+      "current": 3699.9,
+      "original": 3999.99,
+      "currency": "BRL",
+      "discount_percentage": 8
+    },
+    "images": [
+      "https://imgs.casasbahia.com.br/1566584537/1xg.jpg"
+    ],
+    "specifications": {
+      "display": "6.67'' pOLED 165Hz",
+      "storage": "256GB",
+      "camera": "50MP + 50MP + 12MP",
+      "battery": "4600 mAh",
+      "os": "Android 13",
+      "weight": "199g"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 623
+    },
+    "availability": {
+      "in_stock": false,
+      "quantity": 88,
+      "shipping": {
+        "free": false,
+        "estimated_days": 1
+      }
+    },
+    "features": [
+      "5G",
+      "IP68",
+      "TurboPower 125W"
+    ],
+    "created_at": "2025-06-29T22:39:35.371617",
+    "updated_at": "2025-06-29T22:39:35.371619"
+  },
+  {
+    "id": "0e56fdda-d487-4d59-89df-6d6b9a9b0ab1",
+    "name": "Xiaomi 14 Pro 256GB - cor Dourado",
+    "brand": "Xiaomi",
+    "category": "smartphones",
+    "price": {
+      "current": 4299.99,
+      "original": 4799.99,
+      "currency": "BRL",
+      "discount_percentage": 10
+    },
+    "images": [
+      "https://dcdn-us.mitiendanube.com/stores/003/772/365/products/d295f29262e6774bd99e66bcf018e2bc-a0a6aa1ecc4857647917116530904368-1024-1024-4b2834d8ac2bd1b21317501853262204-1024-1024.jpg"
+    ],
+    "specifications": {
+      "display": "6.73'' AMOLED",
+      "storage": "256GB",
+      "camera": "50MP + 50MP + 50MP",
+      "battery": "4880 mAh",
+      "os": "Android 14",
+      "weight": "223g"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 781
+    },
+    "availability": {
+      "in_stock": false,
+      "quantity": 8,
+      "shipping": {
+        "free": true,
+        "estimated_days": 1
+      }
+    },
+    "features": [
+      "5G",
+      "Fast Charging",
+      "Resistência IP68",
+      "Infravermelho"
+    ],
+    "created_at": "2025-06-29T22:39:35.371646",
+    "updated_at": "2025-06-29T22:39:35.371649"
+  },
+  {
+    "id": "ffb091f0-1668-48c6-8936-280911109b61",
+    "name": "Samsung Galaxy S24 Ultra 512GB - cor Preto",
+    "brand": "Samsung",
+    "category": "smartphones",
+    "price": {
+      "current": 7399.99,
+      "original": 8199.99,
+      "currency": "BRL",
+      "discount_percentage": 10
+    },
+    "images": [
+      "https://m.media-amazon.com/images/I/51rPU0jDc0L._UF1000,1000_QL80_.jpg"
+    ],
+    "specifications": {
+      "display": "6.8'' AMOLED 2X",
+      "storage": "512GB",
+      "camera": "200MP + 12MP + 10MP",
+      "battery": "5000 mAh",
+      "os": "Android 14",
+      "weight": "232g"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1002
+    },
+    "availability": {
+      "in_stock": true,
+      "quantity": 6,
+      "shipping": {
+        "free": true,
+        "estimated_days": 3
+      }
+    },
+    "features": [
+      "IP68",
+      "5G",
+      "S Pen",
+      "Carregamento rápido"
+    ],
+    "created_at": "2025-06-29T22:39:35.371869",
+    "updated_at": "2025-06-29T22:39:35.371895"
+  },
+  {
+    "id": "2476d597-00d3-4035-a967-c4e6744185b4",
+    "name": "Google Pixel 8 Pro - cor Verde",
+    "brand": "Google",
+    "category": "smartphones",
+    "price": {
+      "current": 6899.0,
+      "original": 7399.99,
+      "currency": "BRL",
+      "discount_percentage": 7
+    },
+    "images": [
+      "https://files.tecnoblog.net/wp-content/uploads/2025/05/Google-Pixel-8-Pro-Mint-verde.png"
+    ],
+    "specifications": {
+      "display": "6.7'' LTPO OLED",
+      "storage": "128GB",
+      "camera": "50MP + 48MP + 48MP",
+      "battery": "5050 mAh",
+      "os": "Android 14",
+      "weight": "213g"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 852
+    },
+    "availability": {
+      "in_stock": false,
+      "quantity": 25,
+      "shipping": {
+        "free": false,
+        "estimated_days": 5
+      }
+    },
+    "features": [
+      "5G",
+      "AI de Fotos",
+      "IP68",
+      "Atualizações por 7 anos"
+    ],
+    "created_at": "2025-06-29T22:39:35.371987",
+    "updated_at": "2025-06-29T22:39:35.371992"
+  },
+  {
+    "id": "f4e1f7e7-d1a8-4492-99ee-6336955c531f",
+    "name": "Xiaomi 14 Pro 256GB - cor Verde",
+    "brand": "Xiaomi",
+    "category": "smartphones",
+    "price": {
+      "current": 4299.99,
+      "original": 4799.99,
+      "currency": "BRL",
+      "discount_percentage": 10
+    },
+    "images": [
+      "https://dcdn-us.mitiendanube.com/stores/003/772/365/products/d295f29262e6774bd99e66bcf018e2bc-a0a6aa1ecc4857647917116530904368-1024-1024-4b2834d8ac2bd1b21317501853262204-1024-1024.jpg"
+    ],
+    "specifications": {
+      "display": "6.73'' AMOLED",
+      "storage": "256GB",
+      "camera": "50MP + 50MP + 50MP",
+      "battery": "4880 mAh",
+      "os": "Android 14",
+      "weight": "223g"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 781
+    },
+    "availability": {
+      "in_stock": true,
+      "quantity": 49,
+      "shipping": {
+        "free": true,
+        "estimated_days": 3
+      }
+    },
+    "features": [
+      "5G",
+      "Fast Charging",
+      "Resistência IP68",
+      "Infravermelho"
+    ],
+    "created_at": "2025-06-29T22:39:35.372130",
+    "updated_at": "2025-06-29T22:39:35.372140"
+  },
+  {
+    "id": "fa14ec16-3bf8-47c7-aa6c-748a240cb214",
+    "name": "Samsung Galaxy S24 Ultra 512GB - cor Azul",
+    "brand": "Samsung",
+    "category": "smartphones",
+    "price": {
+      "current": 7399.99,
+      "original": 8199.99,
+      "currency": "BRL",
+      "discount_percentage": 10
+    },
+    "images": [
+      "https://m.media-amazon.com/images/I/51rPU0jDc0L._UF1000,1000_QL80_.jpg"
+    ],
+    "specifications": {
+      "display": "6.8'' AMOLED 2X",
+      "storage": "512GB",
+      "camera": "200MP + 12MP + 10MP",
+      "battery": "5000 mAh",
+      "os": "Android 14",
+      "weight": "232g"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1002
+    },
+    "availability": {
+      "in_stock": false,
+      "quantity": 46,
+      "shipping": {
+        "free": true,
+        "estimated_days": 2
+      }
+    },
+    "features": [
+      "IP68",
+      "5G",
+      "S Pen",
+      "Carregamento rápido"
+    ],
+    "created_at": "2025-06-29T22:39:35.372313",
+    "updated_at": "2025-06-29T22:39:35.372322"
+  },
+  {
+    "id": "701b126d-6c2c-4d76-b08f-dc57d579e98c",
+    "name": "Xiaomi 14 Pro 256GB - cor Prata",
+    "brand": "Xiaomi",
+    "category": "smartphones",
+    "price": {
+      "current": 4299.99,
+      "original": 4799.99,
+      "currency": "BRL",
+      "discount_percentage": 10
+    },
+    "images": [
+      "https://dcdn-us.mitiendanube.com/stores/003/772/365/products/d295f29262e6774bd99e66bcf018e2bc-a0a6aa1ecc4857647917116530904368-1024-1024-4b2834d8ac2bd1b21317501853262204-1024-1024.jpg"
+    ],
+    "specifications": {
+      "display": "6.73'' AMOLED",
+      "storage": "256GB",
+      "camera": "50MP + 50MP + 50MP",
+      "battery": "4880 mAh",
+      "os": "Android 14",
+      "weight": "223g"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 781
+    },
+    "availability": {
+      "in_stock": false,
+      "quantity": 86,
+      "shipping": {
+        "free": false,
+        "estimated_days": 1
+      }
+    },
+    "features": [
+      "5G",
+      "Fast Charging",
+      "Resistência IP68",
+      "Infravermelho"
+    ],
+    "created_at": "2025-06-29T22:39:35.372392",
+    "updated_at": "2025-06-29T22:39:35.372396"
+  },
+  {
+    "id": "3c5fd46c-730b-4c54-a343-45a65e95692a",
+    "name": "Samsung Galaxy S24 Ultra 512GB - cor Dourado",
+    "brand": "Samsung",
+    "category": "smartphones",
+    "price": {
+      "current": 7399.99,
+      "original": 8199.99,
+      "currency": "BRL",
+      "discount_percentage": 10
+    },
+    "images": [
+      "https://m.media-amazon.com/images/I/51rPU0jDc0L._UF1000,1000_QL80_.jpg"
+    ],
+    "specifications": {
+      "display": "6.8'' AMOLED 2X",
+      "storage": "512GB",
+      "camera": "200MP + 12MP + 10MP",
+      "battery": "5000 mAh",
+      "os": "Android 14",
+      "weight": "232g"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1002
+    },
+    "availability": {
+      "in_stock": true,
+      "quantity": 65,
+      "shipping": {
+        "free": false,
+        "estimated_days": 3
+      }
+    },
+    "features": [
+      "IP68",
+      "5G",
+      "S Pen",
+      "Carregamento rápido"
+    ],
+    "created_at": "2025-06-29T22:39:35.372458",
+    "updated_at": "2025-06-29T22:39:35.372462"
+  },
+  {
+    "id": "2ed915f9-c19f-4232-b558-b1f2c4a5a8f8",
+    "name": "Samsung Galaxy S24 Ultra 512GB - cor Prata",
+    "brand": "Samsung",
+    "category": "smartphones",
+    "price": {
+      "current": 7399.99,
+      "original": 8199.99,
+      "currency": "BRL",
+      "discount_percentage": 10
+    },
+    "images": [
+      "https://m.media-amazon.com/images/I/51rPU0jDc0L._UF1000,1000_QL80_.jpg"
+    ],
+    "specifications": {
+      "display": "6.8'' AMOLED 2X",
+      "storage": "512GB",
+      "camera": "200MP + 12MP + 10MP",
+      "battery": "5000 mAh",
+      "os": "Android 14",
+      "weight": "232g"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1002
+    },
+    "availability": {
+      "in_stock": true,
+      "quantity": 31,
+      "shipping": {
+        "free": true,
+        "estimated_days": 3
+      }
+    },
+    "features": [
+      "IP68",
+      "5G",
+      "S Pen",
+      "Carregamento rápido"
+    ],
+    "created_at": "2025-06-29T22:39:35.372507",
+    "updated_at": "2025-06-29T22:39:35.372510"
+  },
+  {
+    "id": "7e73758a-932f-4583-9b0b-f849ce00058c",
+    "name": "iPhone 15 Pro Max 256GB - cor Verde",
+    "brand": "Apple",
+    "category": "smartphones",
+    "price": {
+      "current": 7999.99,
+      "original": 8999.99,
+      "currency": "BRL",
+      "discount_percentage": 11
+    },
+    "images": [
+      "https://dcdn-us.mitiendanube.com/stores/003/635/363/products/df9d8f3ffecc05250126ba2371d2af13-b1b2bc91a42787efc917083861835031-1024-1024.jpg"
+    ],
+    "specifications": {
+      "display": "6.7'' Super Retina XDR",
+      "storage": "256GB",
+      "camera": "48MP + 12MP + 12MP",
+      "battery": "4422 mAh",
+      "os": "iOS 17",
+      "weight": "221g"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 1247
+    },
+    "availability": {
+      "in_stock": false,
+      "quantity": 38,
+      "shipping": {
+        "free": false,
+        "estimated_days": 2
+      }
+    },
+    "features": [
+      "IP68",
+      "5G",
+      "Face ID",
+      "Carregamento sem fio"
+    ],
+    "created_at": "2025-06-29T22:39:35.372559",
+    "updated_at": "2025-06-29T22:39:35.372562"
+  },
+  {
+    "id": "e329676a-3ccf-46c5-91a0-a3c11967a52f",
+    "name": "Samsung Galaxy S24 Ultra 512GB - cor Verde",
+    "brand": "Samsung",
+    "category": "smartphones",
+    "price": {
+      "current": 7399.99,
+      "original": 8199.99,
+      "currency": "BRL",
+      "discount_percentage": 10
+    },
+    "images": [
+      "https://m.media-amazon.com/images/I/51rPU0jDc0L._UF1000,1000_QL80_.jpg"
+    ],
+    "specifications": {
+      "display": "6.8'' AMOLED 2X",
+      "storage": "512GB",
+      "camera": "200MP + 12MP + 10MP",
+      "battery": "5000 mAh",
+      "os": "Android 14",
+      "weight": "232g"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1002
+    },
+    "availability": {
+      "in_stock": false,
+      "quantity": 65,
+      "shipping": {
+        "free": false,
+        "estimated_days": 3
+      }
+    },
+    "features": [
+      "IP68",
+      "5G",
+      "S Pen",
+      "Carregamento rápido"
+    ],
+    "created_at": "2025-06-29T22:39:35.372601",
+    "updated_at": "2025-06-29T22:39:35.372604"
+  },
+  {
+    "id": "ef000f96-b5a5-451d-8b11-87ef4c2ff9a7",
+    "name": "Motorola Edge 40 Pro - cor Preto",
+    "brand": "Motorola",
+    "category": "smartphones",
+    "price": {
+      "current": 3699.9,
+      "original": 3999.99,
+      "currency": "BRL",
+      "discount_percentage": 8
+    },
+    "images": [
+      "https://imgs.casasbahia.com.br/1566584537/1xg.jpg"
+    ],
+    "specifications": {
+      "display": "6.67'' pOLED 165Hz",
+      "storage": "256GB",
+      "camera": "50MP + 50MP + 12MP",
+      "battery": "4600 mAh",
+      "os": "Android 13",
+      "weight": "199g"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 623
+    },
+    "availability": {
+      "in_stock": false,
+      "quantity": 45,
+      "shipping": {
+        "free": false,
+        "estimated_days": 1
+      }
+    },
+    "features": [
+      "5G",
+      "IP68",
+      "TurboPower 125W"
+    ],
+    "created_at": "2025-06-29T22:39:35.372648",
+    "updated_at": "2025-06-29T22:39:35.372651"
+  },
+  {
+    "id": "1f83043d-02ff-4daf-94f0-217879f86c2b",
+    "name": "Xiaomi 14 Pro 256GB - cor Dourado",
+    "brand": "Xiaomi",
+    "category": "smartphones",
+    "price": {
+      "current": 4299.99,
+      "original": 4799.99,
+      "currency": "BRL",
+      "discount_percentage": 10
+    },
+    "images": [
+      "https://dcdn-us.mitiendanube.com/stores/003/772/365/products/d295f29262e6774bd99e66bcf018e2bc-a0a6aa1ecc4857647917116530904368-1024-1024-4b2834d8ac2bd1b21317501853262204-1024-1024.jpg"
+    ],
+    "specifications": {
+      "display": "6.73'' AMOLED",
+      "storage": "256GB",
+      "camera": "50MP + 50MP + 50MP",
+      "battery": "4880 mAh",
+      "os": "Android 14",
+      "weight": "223g"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 781
+    },
+    "availability": {
+      "in_stock": true,
+      "quantity": 9,
+      "shipping": {
+        "free": false,
+        "estimated_days": 5
+      }
+    },
+    "features": [
+      "5G",
+      "Fast Charging",
+      "Resistência IP68",
+      "Infravermelho"
+    ],
+    "created_at": "2025-06-29T22:39:35.372716",
+    "updated_at": "2025-06-29T22:39:35.372719"
+  },
+  {
+    "id": "895a83d6-5573-4178-a835-20a8f6859829",
+    "name": "Samsung Galaxy S24 Ultra 512GB - cor Preto",
+    "brand": "Samsung",
+    "category": "smartphones",
+    "price": {
+      "current": 7399.99,
+      "original": 8199.99,
+      "currency": "BRL",
+      "discount_percentage": 10
+    },
+    "images": [
+      "https://m.media-amazon.com/images/I/51rPU0jDc0L._UF1000,1000_QL80_.jpg"
+    ],
+    "specifications": {
+      "display": "6.8'' AMOLED 2X",
+      "storage": "512GB",
+      "camera": "200MP + 12MP + 10MP",
+      "battery": "5000 mAh",
+      "os": "Android 14",
+      "weight": "232g"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1002
+    },
+    "availability": {
+      "in_stock": false,
+      "quantity": 18,
+      "shipping": {
+        "free": false,
+        "estimated_days": 3
+      }
+    },
+    "features": [
+      "IP68",
+      "5G",
+      "S Pen",
+      "Carregamento rápido"
+    ],
+    "created_at": "2025-06-29T22:39:35.372755",
+    "updated_at": "2025-06-29T22:39:35.372758"
+  },
+  {
+    "id": "3f4fc4de-ed65-403e-b887-ba19be05ef09",
+    "name": "Xiaomi 14 Pro 256GB - cor Azul",
+    "brand": "Xiaomi",
+    "category": "smartphones",
+    "price": {
+      "current": 4299.99,
+      "original": 4799.99,
+      "currency": "BRL",
+      "discount_percentage": 10
+    },
+    "images": [
+      "https://dcdn-us.mitiendanube.com/stores/003/772/365/products/d295f29262e6774bd99e66bcf018e2bc-a0a6aa1ecc4857647917116530904368-1024-1024-4b2834d8ac2bd1b21317501853262204-1024-1024.jpg"
+    ],
+    "specifications": {
+      "display": "6.73'' AMOLED",
+      "storage": "256GB",
+      "camera": "50MP + 50MP + 50MP",
+      "battery": "4880 mAh",
+      "os": "Android 14",
+      "weight": "223g"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 781
+    },
+    "availability": {
+      "in_stock": false,
+      "quantity": 91,
+      "shipping": {
+        "free": true,
+        "estimated_days": 3
+      }
+    },
+    "features": [
+      "5G",
+      "Fast Charging",
+      "Resistência IP68",
+      "Infravermelho"
+    ],
+    "created_at": "2025-06-29T22:39:35.372789",
+    "updated_at": "2025-06-29T22:39:35.372792"
+  },
+  {
+    "id": "d2eb9f47-b768-4067-a2ee-ae5d6eeb0793",
+    "name": "Google Pixel 8 Pro - cor Azul",
+    "brand": "Google",
+    "category": "smartphones",
+    "price": {
+      "current": 6899.0,
+      "original": 7399.99,
+      "currency": "BRL",
+      "discount_percentage": 7
+    },
+    "images": [
+      "https://files.tecnoblog.net/wp-content/uploads/2025/05/Google-Pixel-8-Pro-Mint-verde.png"
+    ],
+    "specifications": {
+      "display": "6.7'' LTPO OLED",
+      "storage": "128GB",
+      "camera": "50MP + 48MP + 48MP",
+      "battery": "5050 mAh",
+      "os": "Android 14",
+      "weight": "213g"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 852
+    },
+    "availability": {
+      "in_stock": false,
+      "quantity": 85,
+      "shipping": {
+        "free": true,
+        "estimated_days": 5
+      }
+    },
+    "features": [
+      "5G",
+      "AI de Fotos",
+      "IP68",
+      "Atualizações por 7 anos"
+    ],
+    "created_at": "2025-06-29T22:39:35.372850",
+    "updated_at": "2025-06-29T22:39:35.372853"
+  },
+  {
+    "id": "0cd7d069-103b-42aa-b3a3-f5ebd31d3844",
+    "name": "Motorola Edge 40 Pro - cor Prata",
+    "brand": "Motorola",
+    "category": "smartphones",
+    "price": {
+      "current": 3699.9,
+      "original": 3999.99,
+      "currency": "BRL",
+      "discount_percentage": 8
+    },
+    "images": [
+      "https://imgs.casasbahia.com.br/1566584537/1xg.jpg"
+    ],
+    "specifications": {
+      "display": "6.67'' pOLED 165Hz",
+      "storage": "256GB",
+      "camera": "50MP + 50MP + 12MP",
+      "battery": "4600 mAh",
+      "os": "Android 13",
+      "weight": "199g"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 623
+    },
+    "availability": {
+      "in_stock": false,
+      "quantity": 20,
+      "shipping": {
+        "free": true,
+        "estimated_days": 5
+      }
+    },
+    "features": [
+      "5G",
+      "IP68",
+      "TurboPower 125W"
+    ],
+    "created_at": "2025-06-29T22:39:35.372995",
+    "updated_at": "2025-06-29T22:39:35.373004"
+  },
+  {
+    "id": "214ee646-f1ce-4989-8718-70eadf264e9d",
+    "name": "Google Pixel 8 Pro - cor Preto",
+    "brand": "Google",
+    "category": "smartphones",
+    "price": {
+      "current": 6899.0,
+      "original": 7399.99,
+      "currency": "BRL",
+      "discount_percentage": 7
+    },
+    "images": [
+      "https://files.tecnoblog.net/wp-content/uploads/2025/05/Google-Pixel-8-Pro-Mint-verde.png"
+    ],
+    "specifications": {
+      "display": "6.7'' LTPO OLED",
+      "storage": "128GB",
+      "camera": "50MP + 48MP + 48MP",
+      "battery": "5050 mAh",
+      "os": "Android 14",
+      "weight": "213g"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 852
+    },
+    "availability": {
+      "in_stock": true,
+      "quantity": 60,
+      "shipping": {
+        "free": true,
+        "estimated_days": 2
+      }
+    },
+    "features": [
+      "5G",
+      "AI de Fotos",
+      "IP68",
+      "Atualizações por 7 anos"
+    ],
+    "created_at": "2025-06-29T22:39:35.373061",
+    "updated_at": "2025-06-29T22:39:35.373065"
+  }
+]
