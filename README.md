@@ -1,6 +1,6 @@
 # Desafio Técnico ML - Sistema de Comparação de Produtos
 
-Este projeto é uma solução simplificada para o desafio técnico da vaga de Project Leader em IA/Dados no Mercado Livre.
+Este projeto é uma solução simplificada para o desafio técnico da vaga de IT Project Leader em IA/Dados no Mercado Livre.
 
 ## 📦 Tecnologias Utilizadas
 
